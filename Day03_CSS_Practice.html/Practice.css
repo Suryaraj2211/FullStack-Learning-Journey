@@ -1,0 +1,18 @@
+body{
+    background-color: blue;
+}
+
+.concept{
+    color: blueviolet;  
+}
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: small;
+    border-color: aliceblue;
+    border-style: double;
+    border-width: 0.1pc;
+    margin-top:0cap;
+}
+#Names{
+    color:aqua  ;
+}
