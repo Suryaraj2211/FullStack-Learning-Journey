@@ -1,4 +1,4 @@
-# Full Stack Developer Learning Journey — Surya PM
+# Full Stack Developer Learning Journey -- Surya PM
 
 Welcome to my **Full Stack Development Learning Journey**  
 This repository tracks my **daily progress** as I learn and build projects using  
