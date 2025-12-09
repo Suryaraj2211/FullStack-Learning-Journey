@@ -14,7 +14,6 @@ The Simple Name App allows users to:
 This project is created to practice basic DOM manipulation and event handling.
 
 ---
-
 ## Features
 
 - Text input field
